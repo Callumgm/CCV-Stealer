@@ -36,8 +36,12 @@ def random_VISA_generator():
 
 # Gen random expire date
 def random_expire_date_generator():
-    expire_date = random.randint(2022,2026)
-    return expire_date
+    expire_year = random.randint(2022,2026)
+    expire_month = random.randint(1, 12)
+    if expire_month > 9:
+        return f"{expire_month}/{expire_year}"
+    else:
+        return f"{expire_month}/{expire_year} "
 
 # Gen random balance
 def random_balance_generator():
